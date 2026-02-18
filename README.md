@@ -23,4 +23,4 @@ FastAPI, Docker
 ## Connect with me
 
 Gmail: keegandratner@gmail.com    
-LinkedIn: https://www.linkedin.com/in/keegan-ratner-7ba41b2b7
+LinkedIn: https://www.linkedin.com/in/keegan-ratner
