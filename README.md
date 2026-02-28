@@ -11,13 +11,13 @@ Vibe **assisted**, I explore topics that interest me, challenge me, have real wo
 OpenCode/Claude Code/Cursor, GSD
 
 **AI / ML** |
-TRMs, LLMs, RAG, PyTorch, Descrambler Groups
+TRMs, LLMs, RAG, PyTorch, Sci-kit Learn, Descrambler Groups, Open CV
 
 **Data** |
-Pandas, NumPy, Vector Databases
+Pandas, NumPy, Vector Databases,
 
 **Backend** |
-FastAPI, Docker
+FastAPI, Node.js, Postman, Docker
 
 ---
 ## Connect with me
